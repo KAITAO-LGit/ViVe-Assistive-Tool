@@ -152,7 +152,6 @@ vivetool_v39/
 
 ## 联系方式
 
-邮箱：LKTkaitao@outlook.com
 
 ---
 
